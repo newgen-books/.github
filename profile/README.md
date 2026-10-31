@@ -9,7 +9,7 @@ No app to install and no sign-up needed to start: open a book in the browser on 
 ## What's on the site
 
 - **A shelf of 80+ classics, free.** Public-domain novels and stories, free to read with no limits.
-- **Editions for your level.** Many books also come in simpler editions for A2–C1 readers, so the story fits your English — not the other way around.
+- **Editions for your level.** Many books also come in simpler editions for B1–C1 readers, so the story fits your English — not the other way around.
 - **A measured CEFR level for every edition.** Each version shows how hard it really is, measured on the text itself. *Alice* goes from C1.2 in the original to B2.1 and B1.5 in the adapted editions.
 - **Tap any word.** One tap shows the translation, pronunciation and a plain-English explanation — without leaving the page.
 - **Listen like an audiobook.** Press play on any book: natural North American or British voices, male or female, at any speed, with each word highlighted as it is read.
@@ -29,7 +29,7 @@ No app to install and no sign-up needed to start: open a book in the browser on 
 
 ## Who it's for
 
-- English learners from about A2 to C1 who want to read real books, not exercises.
+- English learners from B1 to C1 who want to read real books, not exercises.
 - Students preparing for IELTS or study abroad who need more reading practice.
 - Teachers looking for free extensive-reading material at a known level.
 
@@ -38,3 +38,4 @@ The interface is available in English, Russian, Spanish, German, French, Italian
 ## Links
 
 - Website: [books.dev](https://books.dev)
+
